@@ -1,12 +1,15 @@
 # python-socket
  it can send commands between the server and the client and process them into the database.
 
-##[SERVER](Pardus 17.1)
+[SERVER](Pardus 17.1)
+
 pip3 install mysql.connector
 pip3 install sockets
 
-##[Client](Ubuntu)
+
+[.Client](Ubuntu)
 pip install sockets
+
 
 
 [MySQL]
