@@ -3,12 +3,12 @@
 
 **server**
 
-pip3 install mysql.connector
-pip3 install sockets
+pip3 install mysql.connector \\
+pip3 install sockets \\
 
 
 **client**
-pip install sockets
+pip install sockets \\
 
 
 
