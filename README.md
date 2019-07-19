@@ -3,9 +3,9 @@
 
 **server**
 
->pip3 install mysql.connector \
+>pip3 install mysql.connector 
 
->pip3 install sockets \
+>pip3 install sockets 
 
 
  **client**
@@ -20,3 +20,6 @@
 
 **example**
 ![1](https://user-images.githubusercontent.com/30519822/61522915-04eda480-aa1c-11e9-8745-0493fe81a376.png)
+
+
+run python scenarios on two different clients, expect a successful connection
